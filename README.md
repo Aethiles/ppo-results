@@ -3,7 +3,7 @@
 
 This repository contains all the episode reward graphs and final score tables generated for my master's thesis on
 Proximal Policy Optimization. The code used to run my experiments can be found at
-https://github.com/Aehiles/ppo-pytorch. I conducted experiments on BeamRider, Breakout, Pong, Seaquest and
+https://github.com/Aethiles/ppo-pytorch. I conducted experiments on BeamRider, Breakout, Pong, Seaquest and
 SpaceInvaders.
 
 Each directory contains a dedicated experiment testing a specific optimization or hyperparameter choice. Underscores in
